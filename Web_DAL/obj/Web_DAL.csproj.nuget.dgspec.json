@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\thucTapPartOne\\IMTA_BanTra\\IMTA_CSharp_BanTra\\Web_BUS\\Web_BUS.csproj": {}
+    "D:\\thucTapPartOne\\IMTA_BanTra\\Web_DAL\\Web_DAL.csproj": {}
   },
   "projects": {
-    "D:\\thucTapPartOne\\IMTA_BanTra\\IMTA_CSharp_BanTra\\Web_BUS\\Web_BUS.csproj": {
+    "D:\\thucTapPartOne\\IMTA_BanTra\\Web_DAL\\Web_DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\thucTapPartOne\\IMTA_BanTra\\IMTA_CSharp_BanTra\\Web_BUS\\Web_BUS.csproj",
-        "projectName": "Web_BUS",
-        "projectPath": "D:\\thucTapPartOne\\IMTA_BanTra\\IMTA_CSharp_BanTra\\Web_BUS\\Web_BUS.csproj",
+        "projectUniqueName": "D:\\thucTapPartOne\\IMTA_BanTra\\Web_DAL\\Web_DAL.csproj",
+        "projectName": "Web_DAL",
+        "projectPath": "D:\\thucTapPartOne\\IMTA_BanTra\\Web_DAL\\Web_DAL.csproj",
         "packagesPath": "C:\\Users\\tienv\\.nuget\\packages\\",
-        "outputPath": "D:\\thucTapPartOne\\IMTA_BanTra\\IMTA_CSharp_BanTra\\Web_BUS\\obj\\",
+        "outputPath": "D:\\thucTapPartOne\\IMTA_BanTra\\Web_DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
