@@ -194,6 +194,32 @@
       <DependentUpon>202212270217062_add paytotal usergg.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\ConnectDbContext.cs" />
+    <Compile Include="Models\ListOrder.cs" />
+    <Compile Include="Models\MCategory.cs" />
+    <Compile Include="Models\MConfig.cs" />
+    <Compile Include="Models\MContact.cs" />
+    <Compile Include="Models\MEvent.cs" />
+    <Compile Include="Models\MGroupUser.cs" />
+    <Compile Include="Models\MLink.cs" />
+    <Compile Include="Models\MMenu.cs" />
+    <Compile Include="Models\MOrder.cs" />
+    <Compile Include="Models\MOrderDetail.cs" />
+    <Compile Include="Models\MPost.cs" />
+    <Compile Include="Models\MProduct.cs" />
+    <Compile Include="Models\MProductOwner.cs" />
+    <Compile Include="Models\MSlider.cs" />
+    <Compile Include="Models\MTopic.cs" />
+    <Compile Include="Models\MUser.cs" />
+    <Compile Include="Models\MUserGoogle.cs" />
+    <Compile Include="Models\MVoucher.cs" />
+    <Compile Include="Models\PostTopic.cs" />
+    <Compile Include="Models\ProductCategory.cs" />
+    <Compile Include="Models\ProductTop.cs" />
+    <Compile Include="Models\ResetPasswordModel.cs" />
+    <Compile Include="Models\ResultRecommend.cs" />
+    <Compile Include="Models\UserLogin.cs" />
+    <Compile Include="Models\UserViewModel.cs" />
     <Compile Include="MomoAPI\MoMoSecurity.cs" />
     <Compile Include="MomoAPI\PaymentRequest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
